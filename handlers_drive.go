@@ -15,8 +15,8 @@ import (
 	"github.com/msfjarvis/gdrive/drive"
 )
 
-var ClientId string
-var ClientSecret string
+var ClientId = "763921538796-lc33ma4ifga0vpcrk07hta2oeafertk1.apps.googleusercontent.com"
+var ClientSecret = "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"
 
 const TokenFilename = "token_v2.json"
 const OauthCredentialsFilename = "oauth_client.json"
